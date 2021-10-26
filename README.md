@@ -8,3 +8,6 @@ In this project, our team is working on analyzing certain trends of women's shoe
 4. What is the average price point of the top brands?
 5. Does women shoe types affect pricing?
 
+## Visualizations and Observations
+
+## Conclusion

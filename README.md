@@ -6,7 +6,7 @@ In this project, our team is working on analyzing certain trends of women's shoe
 2. What are the top colors and the average price points of those colors? 
 3. Out of the shoes being produced, what are the top brands that are produced? Based on the highest amount of individual skus and highest price point.
 4. What is the average price point of the top brands?
-5. Does women shoe types affect pricing?
+5. Does women shoe types and sizes affect pricing?
 
 ## Visualizations and Observations
 

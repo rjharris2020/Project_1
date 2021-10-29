@@ -2,7 +2,7 @@
 In this project, our team is working on analyzing certain trends of women's shoes. In the dataset we are using, which can be found in clean_data.csv from https://data.world/datafiniti/womens-shoe-prices, we have data that incorporates different brands of women's shoes and the kinds of shoes that are produced from those brands. We look to answer certain questions that can shine light on popular shoes brand and shoe types for women that can be found from certain retailers such as Amazon and Wal-Mart.
 
 ## Introduction
-You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramount to retail industry sales as they are quite literally the base of any good retailer’s foundation. Shoes are the completer to any outfit so as you could imagine there are many different pairs, colors, and types of shoes. For our first project our team looked at a 10,000-row data set that contained information about women’s shoes – color, size, category, several others key pieces. We decided that to best look at the data we would answer the following questions...
+You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramount to retail industry sales as they are quite literally the base of any good retailer’s foundation. Shoes are the completer to any outfit so as you could imagine there are many different pairs, colors, and types of shoes. For our first project our team looked at a 10,000-row data set that contained information about women’s shoes – color, size, category, several others key pieces from Amazon and Walmart both in-store and online. We decided that to best look at the data we would answer the following questions...
 
 ## Analysis Questions
 1. What is the impact of women on shoes and what kinds of shoes are being produced? What category of shoe is most widely made for women? Boot, sandal, heels, etc.
@@ -81,7 +81,15 @@ You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramoun
 
 
 ## Conclusion
-*What did we learn from this project?*
+*What conclusions can we draw from the data about shoes for sale from Amazon and Walmart?*
+
+* Brinley Co. is the most popular brand and makes up 10.1% of all shoes.
+* Most popular shoe category are boots.
+* Black shoes represent the majority of shoes produced.
+* White shoes typically cost the most.
+* The top brand with the lowest average price is Soda while the top brand with the highest average price is SAS.
+
+*What did we learn from this project? Are there limitations we should be aware of?*
 
 As you start to analyze the data, you begin to ask more questions upon discovering conclusions as you go on. We revamped some of the questions and what we were looking for based upon the strengths and limitations of the data.
 

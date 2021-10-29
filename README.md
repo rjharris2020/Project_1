@@ -13,7 +13,7 @@ You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramoun
 6. Does shoe size affect pricing?
 
 ## Visualizations and Observations
-*Question 1: What is the impact of women on shoes and what kinds of shoes are being produced? What category of shoe is most widely made for women? Boot, sandal, heels, etc.*
+### Question 1: What is the impact of women on shoes and what kinds of shoes are being produced? What category of shoe is most widely made for women? Boot, sandal, heels, etc.
 
 ![image](https://user-images.githubusercontent.com/88349512/139356835-937d0e39-32ce-4905-b8bf-c5553268830b.png)
 
@@ -22,7 +22,7 @@ You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramoun
 * We can see that the “other” category which makes up 20.3%, contains shoes that don’t necessarily fit into any of the chosen categories which can suggest that women tend to like a variety of shoe types which may prompt retailers to produce a variety of shoe types.
 
 
-*Question 2: Out of the shoes being produced, what are the top brands that are produced?*
+### Question 2: Out of the shoes being produced, what are the top brands that are produced?
 
 ![image](https://user-images.githubusercontent.com/88349512/139354764-267ff129-1916-4fe7-9d7d-d113beffbd14.png)
 
@@ -31,7 +31,7 @@ You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramoun
 * The top three brands, Brinley Co., Propet, and SAS, make up 51.5% of all shoes in this data set.
 
 
-*Question 3: What is the average price point of the top brands?*
+### Question 3: What is the average price point of the top brands?
 
 ![image](https://user-images.githubusercontent.com/88349512/139354788-9773d987-fc25-4623-a280-35ce7c4cfbc3.png)
 
@@ -40,7 +40,7 @@ You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramoun
 * The company could earn an extra $1,127.25 a month ($13,527 annually) if they discounted SAS and Drew brand shoes 20% and gained 5 more shoe purchases a month per brand.
 
 
-*Question 4: What are the top colors and the average price points of those colors?*
+### Question 4: What are the top colors and the average price points of those colors?
 
 **Total Number of Shoes Produced per Top Shoe Color**
 
@@ -60,7 +60,7 @@ You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramoun
 * Out of the top ten colors, grey shoes have the lowest average price point coming in at $47.90. 
 
 
-*Question 5: Does shoe type affect pricing?*
+### Question 5: Does shoe type affect pricing?
 
 ![image](https://user-images.githubusercontent.com/88349512/139357281-ec86a34c-63c6-4c7a-b13e-15734337f9d9.png)
 
@@ -70,7 +70,7 @@ You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramoun
 * 18 shoes with prices over $500 were removed from the data before analysis.
 
 
-*Question 6: Does shoe size affect pricing?*
+### Question 6: Does shoe size affect pricing?
 
 ![image](https://user-images.githubusercontent.com/88349512/139357306-a9622d24-2f2d-4c49-a0b3-9199bc89a857.png)
 

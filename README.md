@@ -5,7 +5,7 @@ In this project, our team is working on analyzing certain trends of women's shoe
 You wear shoes. He wears shoes. She wears lots of shoes. Shoe sales are paramount to retail industry sales as they are quite literally the base of any good retailer’s foundation. Shoes are the completer to any outfit so as you could imagine there are many different pairs, colors, and types of shoes. For our first project our team looked at a 10,000-row data set that contained information about women’s shoes – color, size, category, several others key pieces from Amazon and Walmart both in-store and online. We decided that to best look at the data we would answer the following questions...
 
 ## Analysis Questions
-1. What is the impact of women on shoes and what kinds of shoes are being produced? What category of shoe is most widely made for women? Boot, sandal, heels, etc.
+1. What are the most popular shoe types made for women (boot, sandal, heels, etc.)?
 2. Out of the shoes being produced, what are the top brands that are produced?
 3. What is the average price point of the top brands?
 4. What are the top colors and the average price points of those colors? 
